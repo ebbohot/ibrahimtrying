@@ -1,5 +1,4 @@
 <?php get_header();?>
-jjjjjjjj
   <section class="carusel">
 
 
